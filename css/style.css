@@ -3,6 +3,7 @@
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    background: radial-gradient(#fff,#647190af);
 }
 
 h1 {
@@ -14,7 +15,7 @@ h1 {
 #buttons-container button {
     border: none;
     padding: 10px 15px;
-    margin: 0 10px;
+    margin: 10px 10px;
 }
 
 /* jogo */
